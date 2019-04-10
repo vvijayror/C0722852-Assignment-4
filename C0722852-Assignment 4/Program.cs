@@ -37,7 +37,7 @@ namespace C0722852_Assignment_4
                         int x = counter - 1;
                         number++;
                     }
-               
+
                     counter++;
                 }
                 Console.WriteLine($"The number of lines that contains *Fare* without the word *War* are {number}");
