@@ -32,6 +32,7 @@ namespace C0722852_Assignment_4
                     while ((ln = file.ReadLine()) != null)
                     {
                         Console.WriteLine(ln);
+                
                         Beowulf.Add(ln);
                     }
                     file.Close();
